@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2f6b5e2.chunk.css",
+    "main.js": "/static/js/main.8137edd1.chunk.js",
+    "main.js.map": "/static/js/main.8137edd1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9728a05a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9728a05a.js.map",
+    "static/js/2.a2638a4c.chunk.js": "/static/js/2.a2638a4c.chunk.js",
+    "static/js/2.a2638a4c.chunk.js.map": "/static/js/2.a2638a4c.chunk.js.map",
+    "static/js/3.f1c286a6.chunk.js": "/static/js/3.f1c286a6.chunk.js",
+    "static/js/3.f1c286a6.chunk.js.map": "/static/js/3.f1c286a6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a2f6b5e2.chunk.css.map": "/static/css/main.a2f6b5e2.chunk.css.map",
+    "static/js/2.a2638a4c.chunk.js.LICENSE.txt": "/static/js/2.a2638a4c.chunk.js.LICENSE.txt",
+    "static/media/Grabación.596f95ce.mp3": "/static/media/Grabación.596f95ce.mp3",
+    "static/media/gatoTenor.9ce02f04.gif": "/static/media/gatoTenor.9ce02f04.gif",
+    "static/media/terrorCat.03dc6dd9.gif": "/static/media/terrorCat.03dc6dd9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9728a05a.js",
+    "static/js/2.a2638a4c.chunk.js",
+    "static/css/main.a2f6b5e2.chunk.css",
+    "static/js/main.8137edd1.chunk.js"
+  ]
+}
